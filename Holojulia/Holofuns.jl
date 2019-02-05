@@ -1,5 +1,5 @@
 """
-     HoloCream(U, lines, alf)
+     HoloCrea(U, lines, alf)
 
 Creates the hologram of the desired field U """
 function HoloCrea(U, lines, alf)
